@@ -13,3 +13,5 @@ inline BOOL PreferencesBool(NSString* key, BOOL fallback)
 	%orig(toggle ? @"http" : value, label);
 }
 %end
+	
+	
